@@ -981,6 +981,7 @@
     <Content Include="Scripts\version.json" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="AngularJS\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
